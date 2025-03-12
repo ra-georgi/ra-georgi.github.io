@@ -22,7 +22,7 @@ repository               : "ra-georgi/ra-georgi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Reuben_Profile.png"
+  avatar           : "Reuben_Profile.jpg"
   name             : "Reuben Georgi"
   pronouns         : # example: "she/her"  
   bio              : "Enthusiatic about Controls and Autonomous Systems!"

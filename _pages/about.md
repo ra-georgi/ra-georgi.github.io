@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, welcome to my personal webpage"
+# title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,14 +9,22 @@ redirect_from:
 
 About me
 ======
-I am a Robotics engineer with 3 years of experience possessing a Master’s degree focused on Autonomy and Control.My experience and interests primarily centre around classical and learning based techniques of 3 major aspects of autonomous systems: Control, Planning and Perception. Interested in working hard on challenging and exciting projects while following best practices/ exercising discipline in problem solving and deployment to create safe and reliable systems
+I'm a robotics engineer with 3 years of work experience at my current company [Simelabs](https://www.simelabs.com/services/robotics/) (a subsidiary of the Astek Group) where I've been working on navigation and robotic manipulation. I had previously graduated with a Master's degree in Aeronautics and Astronautics from Purdue University where I majored in Autonomy and Control. During my studies, I have also had the opportunity to intern/work at Khalifa University, Hindustan Aeronautics Limited and AbbVie. 
 
+My Interests
+======
 
-<!-- I recently graduated from Purdue University with a master’s in Aeronautics and Astronautics and majored in Autonomy and Control. Earlier, I had completed my undergraduate studies in Aerospace Engineering at Punjab Engineering College.
+My experience and interests centre around classical and learning based techniques of 3 major aspects of autonomous systems: Control, Planning and Perception. Developments in these areas have huge potential to impact every industry from transportation to consumer appliances and I am excited about tackling these challenges without compromising on the discipline required for developing safety critical systems. 
 
-I am currently seeking full-time engineering positions which involve Control Systems, Robotics, and/or Autonomous Systems. If interested, please contact me at reuben.abraham97@gmail.com.  -->
+<!-- However, I wish to do so with the discipline, as advanced robotics application will often involve involve/interact human beings/life and hope to gain more expertise in this regards from experts/experienced engineers/practitioners who have experience in deploying safety critical systems -->
+
+![Map of Control Theory by Brian Douglas](<img src='/images/Control_Map.png'>) 
+[A great illustration by Brian Douglas](https://engineeringmedia.com/map-of-control)
+
+My interest in robotics evolved out of an interest in control systems which gave me the mathematical base to understand the algorithms used in other aspects of autonomous system such as perception and SLAM. I aim to either implement or at least keep track of the assumptions, benefits and drawbacks of different algorithms so that I have them in my "toolbox" when faced with a novel engineering problem  
+
+<!-- Despite the fact that some of the advanced control algorithms/results shown in the above graphic (made by the excellent Brian Douglas) only have niche areas of application, my aim is to have an understanding of the / I aim to be aware of the assumptions, benefits and drawbacks of all of these approaches so that I have them in my "toolbox" when faced with a novel engineering problem -->
 
 <!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
 

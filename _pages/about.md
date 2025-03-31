@@ -1,14 +1,14 @@
 ---
 permalink: /
-# title: "About me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-======
+<!-- About me
+====== -->
 I'm a robotics engineer with 3 years of work experience at my current company [Simelabs](https://www.simelabs.com/services/robotics/) (a subsidiary of the Astek Group) where I've been working on navigation and robotic manipulation. I had previously graduated with a Master's degree in Aeronautics and Astronautics from Purdue University where I majored in Autonomy and Control. During my studies, I have also had the opportunity to intern/work at Khalifa University, Hindustan Aeronautics Limited and AbbVie. 
 
 My Interests
@@ -18,8 +18,9 @@ My experience and interests centre around classical and learning based technique
 
 <!-- However, I wish to do so with the discipline, as advanced robotics application will often involve involve/interact human beings/life and hope to gain more expertise in this regards from experts/experienced engineers/practitioners who have experience in deploying safety critical systems -->
 
-![Map of Control Theory by Brian Douglas](<img src='/images/Control_Map.png'>) 
-[A great illustration by Brian Douglas](https://engineeringmedia.com/map-of-control)
+![Map of Control Theory by Brian Douglas](/images/Control_Map.png) 
+<p style="text-align: center; font-size: smaller;">[A great illustration by Brian Douglas](https://engineeringmedia.com/map-of-control)</p>
+
 
 My interest in robotics evolved out of an interest in control systems which gave me the mathematical base to understand the algorithms used in other aspects of autonomous system such as perception and SLAM. I aim to either implement or at least keep track of the assumptions, benefits and drawbacks of different algorithms so that I have them in my "toolbox" when faced with a novel engineering problem  
 

@@ -12,14 +12,14 @@ I'm a robotics engineer with 3 years of work experience at my current company [S
 My Interests
 ======
 
-My experience and interests centre around classical and learning based techniques of 3 major aspects of autonomous systems: Control, Planning and Perception. Developments in these areas have huge potential to impact every industry from transportation to consumer appliances and I am excited about tackling these challenges without compromising on the discipline required for developing safety critical systems. 
+My experience and interests centre around classical and learning based techniques of 3 major aspects of autonomous systems: Control, Planning and Perception. Developments in these areas have huge potential to transform every industry from transportation to consumer appliances and I am excited about tackling these challenges without compromising on the discipline required for developing safety critical systems. 
 
 <!-- However, I wish to do so with the discipline, as advanced robotics application will often involve involve/interact human beings/life and hope to gain more expertise in this regards from experts/experienced engineers/practitioners who have experience in deploying safety critical systems -->
 
 ![Map of Control Theory by Brian Douglas](/images/Control_Map.png) 
 <p style="text-align: center; font-size: smaller;"><a href="https://engineeringmedia.com/map-of-control">A great illustration by Brian Douglas</a></p>
 
-My interest in robotics evolved out of an interest in control systems which gave me the mathematical base to understand the algorithms used in other aspects of autonomous system such as perception and SLAM. I aim to either implement or at least keep track of the assumptions, benefits and drawbacks of different algorithms so that I have them in my "toolbox" when faced with a novel engineering problem.
+My interest in robotics evolved out of an interest in control systems which gave me the mathematical base to understand the algorithms used in other aspects of autonomous systems such as SLAM and perception. Take a look at the portfolion section where I have implemented some of these techniques. I try to implement these algorithms myself to keep track of their assumptions, benefits and drawbacks so that I have them in my "toolbox" when faced with a novel engineering problem.
 
 
 <!-- Despite the fact that some of the advanced control algorithms/results shown in the above graphic (made by the excellent Brian Douglas) only have niche areas of application, my aim is to have an understanding of the / I aim to be aware of the assumptions, benefits and drawbacks of all of these approaches so that I have them in my "toolbox" when faced with a novel engineering problem

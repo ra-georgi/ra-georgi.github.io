@@ -19,7 +19,7 @@ My experience and interests centre around classical and learning based technique
 ![Map of Control Theory by Brian Douglas](/images/Control_Map.png) 
 <p style="text-align: center; font-size: smaller;"><a href="https://engineeringmedia.com/map-of-control">A great illustration by Brian Douglas</a></p>
 
-My interest in robotics evolved out of an interest in control systems which gave me the mathematical base to understand the algorithms used in other aspects of autonomous systems such as SLAM and perception. Take a look at the portfolion section where I have implemented some of these techniques. I try to implement these algorithms myself to keep track of their assumptions, benefits and drawbacks so that I have them in my "toolbox" when faced with a novel engineering problem.
+My interest in robotics evolved out of an interest in control systems which gave me the mathematical base to understand the algorithms used in other aspects of autonomous systems such as SLAM and perception. In the portfolio section, you can find implementation of some of these techniques. I try to implement these algorithms myself to keep track of their assumptions, benefits and drawbacks so that I have them in my "toolbox" when faced with a novel engineering problem.
 
 
 <!-- Despite the fact that some of the advanced control algorithms/results shown in the above graphic (made by the excellent Brian Douglas) only have niche areas of application, my aim is to have an understanding of the / I aim to be aware of the assumptions, benefits and drawbacks of all of these approaches so that I have them in my "toolbox" when faced with a novel engineering problem

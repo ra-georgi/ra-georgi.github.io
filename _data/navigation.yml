@@ -9,7 +9,7 @@ main:
   #   url: /talks/  
 
   - title: "CV"
-    url: /cv/  
+    url: "/files/Reuben_Georgi_Resume_Webpage.pdf"  
     
   - title: "Portfolio"
     url: /portfolio/

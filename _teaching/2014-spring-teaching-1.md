@@ -1,23 +1,8 @@
 ---
 title: "Activities and Achievements"
-# collection: teaching
-# type: "Undergraduate course"
 permalink: /teaching/
-# venue: "University 1, Department"
-# date: 2014-01-01
-# location: "City, Country"
 ---
-<!-- 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
 
 * AAS CanSat Competition:  Descent Control Subsystem Design 
  
@@ -41,3 +26,23 @@ Heading 3
     * Responsibilities included organization of events, supervision of projects and management of resources 
 * Member of the Purdue Chapter of Sigma Gamma Tau, honor society for Aerospace Engineering 
 * Member of the English Editorial Board of Punjab Engineering College 
+
+
+<!-- 
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+====== -->
+
+<!-- # collection: teaching
+# type: "Undergraduate course"
+permalink: /teaching/
+# venue: "University 1, Department"
+# date: 2014-01-01
+# location: "City, Country" -->

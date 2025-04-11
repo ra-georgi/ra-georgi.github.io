@@ -1,6 +1,12 @@
 ---
 title: "Activities and Achievements"
 permalink: /teaching/
+# collection: teaching
+type: ""
+permalink: /teaching/
+venue: ""
+date: ""
+location: ""
 ---
 
 
@@ -40,9 +46,3 @@ Heading 2
 Heading 3
 ====== -->
 
-<!-- # collection: teaching
-# type: "Undergraduate course"
-permalink: /teaching/
-# venue: "University 1, Department"
-# date: 2014-01-01
-# location: "City, Country" -->

@@ -21,7 +21,7 @@ main:
     url: /publications/    
     
   - title: "Activities and Achievements"
-    url: /activities/AA  
+    url: /talks/  
 
   # - title: "Guide"
   #   url: /markdown/

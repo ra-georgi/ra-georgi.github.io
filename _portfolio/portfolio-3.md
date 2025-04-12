@@ -1,10 +1,11 @@
 ---
-title: "Quadcopter Design using Genetic Algorithm "
-excerpt: "Multi-objective Design using Genetic Algorithm.<br/><img src='/images/quadGA.JPG'>"
+title: "3D-SLAM"
+excerpt: "Implementation of conventional SLAM algorithms for 3D applications<br/><img src='/images/EKF_SLAM.gif'>"
 collection: portfolio
 ---
+<img src="/images/EKF_SLAM.gif" style="display: block; margin-left: auto; margin-right: auto; max-width: 600px;">
+<p style="text-align: center; font-size: smaller;"><a href="https://github.com/ra-georgi/3D-SLAM">Project Link</a></p>
 
-* Selection of Quadcopter components from several options is posed as a multi-objective optimization problem subject
-to performance and integration constraints
-* A MATLAB app is developed for convenient input of parameters and output of results, including the Pareto frontier, to display Pareto optimal solutions
+* Implementation of the extended and unscented Kalman filter (EKF, UKF) in Python for simultaneous localization and mapping in 3 dimensions
+* Considered scenario with known correspondences and unknown number of landmarks with uncertainty introduced by adding noise to odometry and sensor measurements 
 

@@ -1,15 +1,10 @@
 ---
 title: "Activities and Achievements"
 permalink: /teaching/
-# collection: teaching
 type: ""
-permalink: /teaching/
 venue: ""
-date: ""
 location: ""
 ---
-
-
 * AAS CanSat Competition:  Descent Control Subsystem Design 
  
    * 2017: Team Rank: 41, Score: 90.16% (Preliminary Design Phase) 
@@ -46,3 +41,5 @@ Heading 2
 Heading 3
 ====== -->
 
+<!-- # collection: teaching -->
+<!-- date: "" -->

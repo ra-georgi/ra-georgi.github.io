@@ -6,7 +6,6 @@ permalink: /publication/App123_Journal
 date: 2025-03-17
 venue: 'Journal of Pharmaceutical Sciences'
 paperurl: 'https://jpharmsci.org/article/S0022-3549(25)00223-0/abstract'
-
 ---
 
 Abstract:

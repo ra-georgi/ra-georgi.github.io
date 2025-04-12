@@ -1,7 +1,7 @@
 ---
 title: "Activities and Achievements"
 collection: talks
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/AA
 ---
 * AAS CanSat Competition:  Descent Control Subsystem Design 
  

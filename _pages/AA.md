@@ -1,6 +1,6 @@
 ---
 title: "Activities and Achievements"
-permalink: /activities/AA
+permalink: /activities/
 ---
 * AAS CanSat Competition:  Descent Control Subsystem Design 
  

@@ -1,11 +1,11 @@
 ---
-title: "3D-SLAM"
-excerpt: "Implementation of conventional SLAM algorithms for 3D applications<br/><img src='/images/EKF_SLAM.gif'>"
+title: "Autonomous Mobile Manipulator Simulation"
+excerpt: "Gazebo simulation of autonomous operation of a custom mobile manipulator<br/><img src='/images/demo_navigation.gif'>"
 collection: portfolio
 ---
-<img src="/images/EKF_SLAM.gif" style="display: block; margin-left: auto; margin-right: auto; max-width: 600px;">
-<p style="text-align: center; font-size: smaller;"><a href="https://github.com/ra-georgi/3D-SLAM">Project Link</a></p>
+<img src="/images/demo_pick_place.gif" style="display: block; margin-left: auto; margin-right: auto; max-width: 600px;">
+<p style="text-align: center; font-size: smaller;"><a href="https://github.com/ra-georgi/Autonomous-Mobile-Manipulation">Project Link</a></p>
 
-* Implementation of the extended and unscented Kalman filter (EKF, UKF) in Python for simultaneous localization and mapping in 3 dimensions
-* Considered scenario with known correspondences and unknown number of landmarks with uncertainty introduced by adding noise to odometry and sensor measurements 
+* Designed and implemented a ROS 2 mobile manipulator system integrating Nav2, MoveIt2, and Gazebo to enable autonomous navigation and manipulation 
+* Utilized BehaviorTree.CPP to react to dynamically spawned objects and orchestrate task-level actions 
 

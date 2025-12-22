@@ -10,8 +10,7 @@ collection: portfolio
 * Developing a modular and extensible Python tool for simulating quadcopter motion and experimenting with 
 different motion planning and control techniques 
 * Currently implemented features:  
-- Simulation: Set actuator limits, actuator delays, waypoints, wind disturbances (constant or Gaussian), 
-obstacles (spherical)  
-- Planning: Dijkstra, A*, RRT*, iLQR (Iterative Linear Quadratic Regulator) 
-- Control: Cascade PID, LQR (using JAX for autodiff), linear MPC (using Casadi for optimization) 
-- Visualization: Plots of state variable evolution with time, animation of quadcopter flight 
+ Simulation: Set actuator limits, actuator delays, waypoints, wind disturbances (constant or Gaussian), obstacles (spherical)  
+ Planning: Dijkstra, A*, RRT*, iLQR (Iterative Linear Quadratic Regulator) 
+ Control: Cascade PID, LQR (using JAX for autodiff), linear MPC (using Casadi for optimization) 
+ Visualization: Plots of state variable evolution with time, animation of quadcopter flight 

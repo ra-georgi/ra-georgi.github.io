@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a robotics engineer with 3 years of work experience at my current company [Simelabs](https://www.simelabs.com/services/robotics/) (a subsidiary of the Astek Group) where I've been working on navigation and robotic manipulation. I had previously graduated with a Master's degree in Aeronautics and Astronautics from Purdue University where I majored in Autonomy and Control. During my studies, I have also had the opportunity to intern/work at Khalifa University, Hindustan Aeronautics Limited and AbbVie. 
+I'm a robotics engineer with 4 years of work experience at my current company [Simelabs](https://www.simelabs.com/services/robotics/) (a subsidiary of the Astek Group) where I've been working on navigation and robotic manipulation. I had previously graduated with a Master's degree in Aeronautics and Astronautics from Purdue University where I majored in Autonomy and Control. During my studies, I have also had the opportunity to intern/work at Khalifa University, Hindustan Aeronautics Limited and AbbVie. 
 
 My Interests
 ======
